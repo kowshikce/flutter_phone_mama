@@ -1,6 +1,9 @@
 # flutter_phone_mama
 
-A new Flutter application.
+Demo Flutter App Sidebar Design
+![Screenshot_২০২০০৯২৭_১০৫৪৩০](https://user-images.githubusercontent.com/49833043/95022053-8c154f80-0696-11eb-869a-d9f7ccc36631.png)
+
+![Screenshot_২০২০০৯২৭_১০৫২১৭](https://user-images.githubusercontent.com/49833043/95022066-a818f100-0696-11eb-99b1-f2870ecba0f7.png)
 
 ## Getting Started
 
